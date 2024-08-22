@@ -1,0 +1,94 @@
+1)https://www.youtube.com/watch?v=hQcFE0RD0cQ --->44.57 Min
+
+111)https://www.youtube.com/watch?v=hQcFE0RD0cQ&t=3669s-->2 hr 15 min
+
+222)https://www.youtube.com/watch?v=hQcFE0RD0cQ&t=3669s-->3hr 15min
+
+
+
+
+1.1)https://www.youtube.com/watch?v=hQcFE0RD0cQ-->1hr
+
+2)https://www.youtube.com/watch?v=1U0gyq8qN7A
+
+3)https://www.youtube.com/watch?v=MTvsspoOlhI
+Docker Documentation
+2)https://docs.docker.com/desktop/install/windows-install/ 
+
+CDB5B412-465B-457C-B2DA-CCE7000C38FB/20240806154406 
+
+
+
+Public-REPOS
+dodid8doneTamiliswritenfomlefttowardtherightwhichisthesameas
+
+
+
+Git-Hup
+1)https://github.com/valanarasu/dodid8doneTamiliswritenfomlefttowardtherightwhichisthesameasEnglish/pulls
+
+Git Remote Important Video
+1)https://www.youtube.com/watch?v=KHaTHksakVc&list=PL20nrB6KzY4DBJY4_Qpdm33rBeBpllPb-&index=3
+
+
+JenKins Install
+1)https://www.jenkins.io/doc/book/installing/windows
+2)https://www.jenkins.io/doc/book/installing/
+
+
+JenKins
+1)http://localhost:8081/
+
+
+Winows Home Edition (Enable Policy)
+1)FOR %F IN ("%SystemRoot%\servicing\Packages\Microsoft-Windows-GroupPolicy-ClientTools-Package~*.mum") DO (DISM /Online /NoRestart /Add-Package:"%F")
+2)FOR %F IN ("%SystemRoot%\servicing\Packages\Microsoft-Windows-GroupPolicy-ClientExtensions-Package~*.mum") DO (DISM /Online /NoRestart /Add-Package:"%F")
+
+
+
+Important Video and Screen Shot(DevOps)
+1)https://www.youtube.com/watch?v=-AAcMNncCa4
+
+
+13-08-2024
+1)https://www.youtube.com/watch?v=nfragwXwnT8&t=25s-->45min
+
+
+Git Basic
+1)https://www.youtube.com/watch?v=HnuZ04XYfjs-->25min
+
+
+GenKin->Important Video(14-8-2024)
+https://www.youtube.com/watch?v=jbEF3mB7UcU
+
+JenKin Example(16-8-2024)
+1)https://www.youtube.com/watch?v=6YZvp2GwT0A
+
+
+AI
+1)https://ramishahopeai.ewebinar.com/webinar/8851/join/8034930
+2)https://www.youtube.com/watch?v=JMUxmLyrhSk&t=15136s
+
+
+
+AWS(Important video Free of service)
+1)https://www.youtube.com/watch?v=DaSt-5tTmG4
+2)https://www.youtube.com/watch?v=eZeNIakuqbc
+
+
+Devops 45 Days
+1)https://www.youtube.com/watch?v=Ou9j73aWgyE&list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa
+
+
+
+Machine Learning(Tamil)
+1)https://www.youtube.com/watch?v=aiCIWGSCCKo&list=PLorkqpg7qgkw8xqc-RmuCgfCWRWCRnN-u
+
+
+AI Engineer Beginner to Advance
+1)https://codebasics.io/courses/machine-learning-for-data-science-beginners-to-advanced
+2)https://www.youtube.com/watch?v=B01qMFMAgUQ&list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw&index=21
+
+
+AI Course
+1)https://www.youtube.com/watch?v=MhCHrvfAXlc
